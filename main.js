@@ -1751,7 +1751,7 @@ function renderRecentComments(_0x5d879d) {
     (function () {
       const _0x4ed6ec = document.createElement("script");
       _0x4ed6ec.id = "rc-feed-loader";
-      _0x4ed6ec.src = "https://www.higenz.com/feeds/comments/default?alt=json-in-script&v=2&max-results=10&callback=__rcFeedCB";
+      _0x4ed6ec.src = "https://truongdevs2025.blogspot.com/feeds/comments/default?alt=json-in-script&v=2&max-results=10&callback=__rcFeedCB";
       document.body.appendChild(_0x4ed6ec);
     })();
   }
